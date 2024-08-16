@@ -9,22 +9,19 @@ function Section2() {
       <div className='w-[40%] flex flex-col gap-4'>
         <h2 className='text-5xl font-semibold'>About Me</h2>
         <p>Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in. Aliquet donec morbi convallis pretium. Turpis tempus pharetra</p>
-        {/* <div> */}
+        
           <label htmlFor="ux" className='font-semibold'>UX</label>
           <input id='ux' type="range" className='accent-orange-600' />
-        {/* </div> */}
-        {/* <div> */}
+        
           <label htmlFor="website-design" className='font-semibold'>Website Design</label>
           <input id='website-design' type="range" className='accent-orange-600' />
-        {/* </div> */}
-        {/* <div> */}
+        
           <label htmlFor="app-design" className='font-semibold'>App Design</label>
           <input id='app-design' type="range" className='accent-orange-600' />
-        {/* </div> */}
-        {/* <div> */}
+        
           <label htmlFor="graphic-design" className='font-semibold'>Graphic Design</label>
           <input id="graphic-design" type="range" className='accent-orange-600' />
-        {/* </div> */}
+        
       </div>
     </section>
   )
