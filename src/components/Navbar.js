@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 function Navbar() {
   return (
-    <nav className='flex items-center justify-between'>
+    <nav className='flex items-center justify-between mt-12'>
       <div className='flex items-center gap-2'>
         <Image src="logo.svg" alt="logo" width={40} height={40} />
         <p className='text-3xl'><span className='font-bold text-3xl'>M</span>umai</p>

@@ -10,7 +10,7 @@ import Section6 from "@/src/components/Section6";
 
 export default function Home() {
   return (
-    <div className="w-[1420px] m-auto mt-8 font-poppins">
+    <div className="w-[75%] m-auto font-poppins">
       <Navbar />
       <main>
         <Section1 />
