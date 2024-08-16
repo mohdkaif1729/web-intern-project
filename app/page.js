@@ -10,7 +10,9 @@ import Section6 from "@/src/components/Section6";
 
 export default function Home() {
   return (
-    <div className="w-[75%] m-auto font-poppins">
+    <div className="w-full m-auto font-poppins">
+      <div className="w-[75%] m-auto">
+
       <Navbar />
       <main>
         <Section1 />
@@ -20,6 +22,7 @@ export default function Home() {
         <Section5 />
         <Section6 />
       </main>
+      </div>
       <Footer />
     </div>
   );
