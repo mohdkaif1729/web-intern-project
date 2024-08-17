@@ -2,7 +2,7 @@ import React from 'react'
 
 function Section4() {
   return (
-    <section className=''>
+    <section className='w-[75%] m-auto'>
       <div className='w-[70%] m-auto flex flex-col gap-6 items-center mt-20'>
         <h1 className='font-semibold text-5xl'>My Projects</h1>
         <p className='text-center'>Lorem ipsum dolor sit amet consectetur. Mollis erat duis aliquam mauris est risus lectus. Phasellus consequat urna tellus</p>

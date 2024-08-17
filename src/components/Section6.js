@@ -2,8 +2,8 @@ import React from 'react'
 
 function Section6() {
   return (
-    <section className='mt-10'>
-      <div className='w-[70%] m-auto flex flex-col gap-6 items-center mt-20'>
+    <section className='mt-10 w-[75%] m-auto'>
+      <div className='w-[70%] m-auto flex flex-col gap-6 items-center mt-20 '>
         <h1 className='font-semibold text-5xl'>Lets Design Together</h1>
         <p className='text-center'>Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in. Aliquet donec morbi convallis pretium</p>
         <div>
